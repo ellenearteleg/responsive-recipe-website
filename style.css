@@ -234,8 +234,6 @@ header {
 
     .hero-btn {
         display: flex;
-        overflow-inline:calc();
-    
     }
 
     .hero-scd-btn {
